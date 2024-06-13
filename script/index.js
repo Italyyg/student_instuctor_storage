@@ -3,9 +3,9 @@ console.log("ITS ALIVE!");
 
 window.onload =()=>{
 
-    let nameForm = document.querySelector("#fullNameForm");
+    // let nameForm = document.querySelector("#fullNameForm");
 
-    let radioForm = document.querySelector("#radioChoiceForm");
+    // let radioForm = document.querySelector("#radioChoiceForm");
 
     let enterbutton = document.querySelector("#enterButton");
 

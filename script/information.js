@@ -7,12 +7,13 @@ window.onload = () => {
 
 
     displayResults();
+    
 
 }
 
 let displayResults = () => {
 
-    
+   
     // let studentResults = document.querySelector("#studentResults");
     // let InstructorResults = document.querySelector("#instructorResults");
 
